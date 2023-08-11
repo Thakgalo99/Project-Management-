@@ -305,6 +305,7 @@ if $cygwin; then
   [ -n "$CLASSPATH" ] &&
     CLASSPATH=$(cygpath --path --windows "$CLASSPATH")
   [ -n "$MAVEN_PROJECTBASEDIR" ] &&
+ [ -n "$MAVEN_PROJECTBASEDIR" ] &&
     MAVEN_PROJECTBASEDIR=$(cygpath --path --windows "$MAVEN_PROJECTBASEDIR")
 fi
 
