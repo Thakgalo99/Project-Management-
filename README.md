@@ -1,4 +1,4 @@
-# Mini Project Management System (Spring boot & Angular 9 )
+# Project Management System (Spring boot & Angular 9 )
 
 [![N|Solid](https://i55.servimg.com/u/f55/13/79/70/03/main10.png)](https://i55.servimg.com/u/f55/13/79/70/03/main10.png)
 
@@ -111,14 +111,7 @@ Swagger Spec      |  http://localhost:8080/v2/api-docs          |``Nada``
 #### Login
 ![Login](https://i55.servimg.com/u/f55/13/79/70/03/112.png)
 
-#### Dashboard
-![Dashboard](https://i55.servimg.com/u/f55/13/79/70/03/210.png)
 
-#### User List 
-![User_List](https://i55.servimg.com/u/f55/13/79/70/03/310.png)
-
-#### Project List 
-![Project_List](https://i55.servimg.com/u/f55/13/79/70/03/410.png)
 
 #### Notice List 
 ![Notice_List](https://i55.servimg.com/u/f55/13/79/70/03/510.png)
