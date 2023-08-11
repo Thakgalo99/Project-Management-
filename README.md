@@ -76,8 +76,6 @@ Cpmponent         | URL                                      | Credentials
 ---               | ---                                      | ---
 Backtend          |  http://localhost:8080                   | `register new user`
 Frontend          |  http://localhost:4200                   | ``register new user``
-Swagger (API Ref) |  http://localhost:8080/swagger-ui.html  | ``email & password if Ask`` 
-Swagger Spec      |  http://localhost:8080/v2/api-docs          |``Nada``
 
 ### Screenshots
 #### Login
