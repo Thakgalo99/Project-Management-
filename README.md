@@ -2,19 +2,9 @@
 
 [![N|Solid](https://i55.servimg.com/u/f55/13/79/70/03/main10.png)](https://i55.servimg.com/u/f55/13/79/70/03/main10.png)
 
-> Angular and SpringBoot both have way too much of magic, if you are one who like to be in controll of their code, then you are in right place :)
-> hope you find this project helpfull for you learning purpose.
 
-In this project, Im going to build a Spring Boot Rest Api project that supports Token based Authentication with JWT and angular 9 . You’ll know:
 
-  - Appropriate Flow for User Signup & User Login with JWT Authentication.
-  - Spring Boot Application Architecture with Spring Security.
-  - How to configure Spring Security to work with JWT.
-  - Way to use Spring Data JPA to interact with PostgreSQL.
-  - How to use genircs class repository and service.
-  - How to organize and structure your work environment and folders (like in companies).
-
-### Technology Stack
+### Technology Stack i use on this project
 Component         | Technology
 ---               | ---
 Frontend          | [Angular 9](https://github.com/angular/angular)
@@ -31,21 +21,9 @@ Server Build Tools| Maven(Java) or Gradle
 
 [![N|Solid](https://i55.servimg.com/u/f55/13/79/70/03/011.png)](https://i55.servimg.com/u/f55/13/79/70/03/011.png)
 
-## Prerequisites
-Ensure you have this installed before proceeding further
-- Java 8
-- Maven 3.3.9+ or Gradle 3.3
-- Node.js 12 or above,  
-- npm 6 or above,   
-- Angular-cli 9.1.4
 
-## About
-This is an RESTfull implementation of an Mini Project Management System, using
-spring boot rest pai as beck-end and angular as front-end.
-The goal of the project is to 
-- Highlight techniques of making and securing a REST full app using [SpringBoot](https://projects.spring.io/spring-boot)
-- How to consume an RESTfull service and make an HTML5 based Single Page App using [Angular 9+](https://github.com/angular/angular)
-- How to use an admin template [AdminLte 2](https://github.com/ColorlibHQ/AdminLTE/releases/tag/v2.4.18) and intgrated with Angular
+
+
 
 ### Features of the Project
 * Backend
@@ -64,8 +42,7 @@ The goal of the project is to
   * Basic visulaization.
   * Pagination with jquery integred in Admin template.
 
-* Build
-  * How to build all in one app that includes (database, sample data, RESTfull API, Auto generated API Docs, frontend and security).
+
   
 ### Build Frontend
 
@@ -80,12 +57,7 @@ ng server
 npm start
 ```
 
-### Build Backend (SpringBoot Java)
- This project is packaged as a war which has Tomcat 8 embedded. No Tomcat or JBoss installation is necessary. You run it using the `java -jar` command.
- - Clone this repository
- - Make sure you are using JDK 1.8 and Maven 3.x
- - You can build the project and run the tests by running `mvn clean package`
- - Once successfully built, you can run the service by one of these two methods:
+
 
 ```bash
 # Maven Build : Navigate to the root folder where pom.xml is present 
@@ -113,19 +85,3 @@ Swagger Spec      |  http://localhost:8080/v2/api-docs          |``Nada``
 
 
 
-#### Notice List 
-![Notice_List](https://i55.servimg.com/u/f55/13/79/70/03/510.png)
-
-#### API Docs - With Live Tryout
-![Api_Doc](https://i55.servimg.com/u/f55/13/79/70/03/610.png)
-
-#### API Docs - With Live Tryout
-![Api_Doc](https://i55.servimg.com/u/f55/13/79/70/03/710.png)
-
-#### API Docs - With Live (Category API)
-![Api_category](https://i55.servimg.com/u/f55/13/79/70/03/910.png)
-
-#### API Docs - With Live (Category Entity)
-![Api_category](https://i55.servimg.com/u/f55/13/79/70/03/1010.png)
-
-**Thnak You For Purchasing My Software, That Help Me Alot :)**
