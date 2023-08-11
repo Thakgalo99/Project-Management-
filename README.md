@@ -1,4 +1,4 @@
-# Project Management System (Spring boot & Angular 9 )
+# Thakgalo Molefe Phaahla Project Management System (Spring boot & Angular 9 )
 
 [![N|Solid](https://i55.servimg.com/u/f55/13/79/70/03/main10.png)](https://i55.servimg.com/u/f55/13/79/70/03/main10.png)
 
